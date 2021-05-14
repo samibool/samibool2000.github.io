@@ -121,17 +121,17 @@ position: absolute;
   100% {opacity:1;}
 }
 
-@-webkit-keyframes fadeIn {
+@keyframes fadeIn {
   0% {opacity:0;}
   100% {opacity:1;}
 }
 
-@-o-keyframes fadeIn {
+@keyframes fadeIn {
   0% {opacity:0;}
   100% {opacity:1;}
 }
 
-@-ms-keyframes fade In {
+@keyframes fade In {
   0% {opacity:0;}
   100% {opacity:1;}
 }
